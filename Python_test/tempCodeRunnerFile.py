@@ -1,1 +1,1 @@
-.show()
+            ser.close()
